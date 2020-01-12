@@ -10,7 +10,7 @@
 import Foundation
 import Dispatch
 
-public class IGDBWrapper {
+public class Wrapper {
     
     var API_URL: String = "https://api-endpoint.igdb.com/"
     let apiKey: String
